@@ -1,0 +1,22 @@
+{
+  "message": "User created successfully!",
+  "users": {
+    "users": [
+      {
+        "username": "admin",
+        "password": "password",
+        "email": "admin@gmail.com"
+      },
+      {
+        "username": "admin",
+        "password": "password",
+        "email": "admin@gmail.com"
+      },
+      {
+        "username": "admin",
+        "password": "password",
+        "email": "admin@gmail.com"
+      }
+    ]
+  }
+}

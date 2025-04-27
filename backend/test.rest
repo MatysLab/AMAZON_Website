@@ -1,0 +1,16 @@
+### Test GET Home Page
+GET http://localhost:8383/dashboard
+
+
+### Test Get API DATA
+GET http://localhost:8383/api/data/
+
+### Create new user VIA API
+POST http://localhost:8383/api/data
+Content-Type: application/json
+
+{
+   "username": "admin",
+   "password": "password",
+   "email": "admin@gmail.com"
+}
